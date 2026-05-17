@@ -48,10 +48,10 @@ Grad-CAM (판단 근거 히트맵 시각화)
 ## 결과 시각화
 
 ### 이상(위험) 샘플 Grad-CAM
-![이상 샘플](results/gradcam_anomaly.png)
+![이상 샘플](result/gradcam_anomaly.png)
 
 ### 실패 케이스 분석
-![실패 케이스](results/gradcam_failures.png)
+![실패 케이스](result/gradcam_failures.png)
 
 ---
 
